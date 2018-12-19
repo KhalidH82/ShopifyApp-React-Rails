@@ -1,0 +1,18 @@
+{
+    "name": "khalid101",
+    "private": true,
+    "dependencies": {
+        "@rails/webpacker": "3.5",
+        "@shopify/polaris": "^3.2.1",
+        "babel-preset-react": "^6.24.1",
+        "prop-types": "^15.6.2",
+        "react": "^16.6.3",
+        "react-dom": "^16.6.3",
+        "webpacker-react": "^0.3.2"
+    },
+    "devDependencies": {
+        "install": "^0.12.2",
+        "webpack": "^3.8.0",
+        "webpack-dev-server": "^2.9.7"
+    }
+}
